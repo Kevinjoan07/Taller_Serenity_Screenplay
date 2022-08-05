@@ -11,4 +11,4 @@ para ejecutar todos los escenarios por cmd utilizar
 
 
 el informe se muestra en la ruta 
---target/site/serenity & index.html--
+--target/site/serenity/index.html--
